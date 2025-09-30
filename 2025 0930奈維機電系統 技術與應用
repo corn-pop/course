@@ -1,0 +1,56 @@
+ ## 講者:戴慶良教授 國立中興大學機械系
+ ## 題目：奈維機電系統 技術與應用
+
+MEMS Size Scale - MEMS 尺度比較
+ 
+  
+- MEMS 尺寸介於 1 μm 到 1 mm
+- 比頭髮細小，但比晶體管大
+
+Fabrication - 製程
+ ![image](https://github.com/corn-pop/course/blob/main/image/20250930_133424.jpg)
+  
+- 乾淨室環境下進行
+- 透過精密設備製作晶片
+
+Surface Micromachining - 表面微加工流程
+ 
+  
+- 步驟包含沉積、光刻、蝕刻與釋放
+- 適合製作微型機械結構
+
+Accelerometer - 加速度計
+ 
+  
+- 利用質量塊與彈簧結構
+- 測量線性加速度
+
+Microstage - 微舞台/微平台
+ 
+  
+- 具備多軸運動能力
+- 應用於精密定位與微操作
+
+Accelerometer with circuits - 含電路的加速度計
+ 
+  
+- 結合 CMOS 電路
+- 可直接輸出電信號
+
+Gyroscope - 陀螺儀
+ 
+  
+- 偵測角速度
+- 廣泛應用於導航、姿態控制
+
+Mirror with comb drives - 梳齒驅動鏡
+ 
+  
+- 利用靜電驅動控制鏡片角度
+
+Microhotplate - 微熱板
+ 
+  
+- 利用加熱膜與溫度感測器控制溫度
+- 應用於氣體感測與材料測試
+
